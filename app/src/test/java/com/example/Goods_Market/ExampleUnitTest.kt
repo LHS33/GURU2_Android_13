@@ -1,4 +1,4 @@
-package com.example.test
+package com.example.Goods_Market
 
 import org.junit.Test
 

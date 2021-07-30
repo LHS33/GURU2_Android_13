@@ -84,17 +84,18 @@
                 android:textColor="@color/white"
                 android:textSize="15sp"
                 android:textStyle="bold"/>
+
             <TextView
                 android:id="@+id/menuLOGO"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/alfa_slab_one"
+                android:paddingLeft="20dp"
+                android:paddingTop="25dp"
                 android:text="GOODS\nMARKET"
                 android:textAlignment="center"
                 android:textColor="@color/white"
-                android:textSize="25sp"
-                android:paddingTop="25dp"
-                android:paddingLeft="20dp"/>
+                android:textSize="25sp" />
         </LinearLayout>
 
 
